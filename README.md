@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityachandla
-- 👀 I’m interested in systems programming with rust
+- 👀 I’m interested in distributed systems and databases
 
 
 <!---
